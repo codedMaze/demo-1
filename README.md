@@ -1,3 +1,3 @@
-#Lesson 1 on Git 
+# Lesson 1 on Git 
 
 a class on git
